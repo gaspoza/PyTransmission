@@ -4,4 +4,6 @@
 .venv
 .vscode
 
+pytransmission/config.py
+
 __pycache__/
